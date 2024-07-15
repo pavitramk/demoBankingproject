@@ -1,0 +1,10 @@
+2024-07-12 11:16:32,695 [main] INFO ebanking - URL is opened
+2024-07-12 11:16:33,802 [main] INFO ebanking - User name entered
+2024-07-12 11:16:34,192 [main] INFO ebanking - Password entered
+2024-07-12 11:16:38,955 [main] INFO ebanking - Clicked the submit button
+2024-07-12 11:16:38,996 [main] INFO ebanking - Login test passed
+2024-07-12 11:20:53,908 [main] INFO ebanking - URL is opened
+2024-07-12 11:21:02,074 [main] INFO ebanking - User name entered
+2024-07-12 11:21:02,458 [main] INFO ebanking - Password entered
+2024-07-12 11:21:08,961 [main] INFO ebanking - Clicked the submit button
+2024-07-12 11:21:08,992 [main] INFO ebanking - Login test passed
